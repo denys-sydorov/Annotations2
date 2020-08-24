@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79e5909f-faff-4d38-96fe-eb83422d0902" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gXnI78q3bBwEytnEV26cOCik2g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.gmail.kpisid" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.gmail.kpisid.Main" />
+      <module name="JP_3_02_Annotations2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79e5909f-faff-4d38-96fe-eb83422d0902" name="Default Changelist" comment="" />
+      <created>1598269721118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598269721118</updated>
+      <workItem from="1598269725397" duration="1966000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="88" key="#Main" timestamp="1598269861490">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="517" y="88" key="#Main/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1598269861490" />
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598269907626">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1598269907626" />
+    <state x="529" y="214" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598269905496">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="529" y="214" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1598269905496" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1598271693578">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1598271693578" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1598271693578">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1598271693578" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1598271693577">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1598271693577" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1598271693578">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1598271693578" />
+    <state x="182" y="50" key="new project wizard" timestamp="1598271691961">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="50" key="new project wizard/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1598271691961" />
+  </component>
+</project>
